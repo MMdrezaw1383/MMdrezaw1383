@@ -24,8 +24,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <h2 align="right">تماس با من 📞</h2>
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
 <a href="https://instagram.com/mmdrezaw2789"><img width="50px" height="50px" align="left" src="https://github.com/user-attachments/assets/b8ae8f30-f940-4833-89c4-d704f31f8fff" alt="Instagram" /></a>
 <a href="https://t.me/ichigo_kurosaki"><img width="50px" height="50px"  align="left" src="https://github.com/user-attachments/assets/99907b13-37f6-4a72-ac1a-4f4706d7a12f" alt="Telegram" /></a>
 
