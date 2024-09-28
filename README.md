@@ -26,18 +26,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div>
 
-<h2 align="right">الان به چه کار هایی مشغول هستم 🌚</h2>
- <h3 align="right">🌟 بک اند سایت</h3>
-
-<br />
 
 <h2 align="right">الان دارم با اینا کار می‌کنم 👨‍💻</h2>
 
-<h3 align="left">🖥 Python | 80%</h3> <img width="250px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<h3 align="left">🖥 Python| متوسط</h3> <img width="250px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
 
 <br />
 
-<h3 align="left">🖥 Django | 50%</h3> <img width="200px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<h3 align="left">🖥 Django| متوسط</h3> <img width="250px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
 
 <br />
 
