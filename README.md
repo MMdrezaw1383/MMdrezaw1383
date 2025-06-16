@@ -6,8 +6,6 @@
 <p align="center">
   برنامه نویس بک اند 🖥 دانشجوی رشته مهندسی کامپیوتر دانشگاه آمل 👨‍💻 و عاشق دنیای صفر و یک ✌️
 </p>
-
-<br />
 <div align="center">
 <h2 align"right">ابزار هایی که استفاده می‌کنم</h2>
   
@@ -31,22 +29,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
-
-
 <h2 align="right">الان دارم با اینا کار می‌کنم 👨‍💻</h2>
 
 <h3 align="left">🖥 Python| متوسط</h3> <img width="250px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-
 <br />
 
 <h3 align="left">🖥 Django| متوسط</h3> <img width="250px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-
 <br />
-
 <div align="right">
 <h2>تماس با من 📞</h2>
 
-<a href="https://t.me/ichigo_kurosaki">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) </a>
-
-<a href="https://t.me/ichigo_kurosaki"><img width="50px" height="50px"  align="left" src="https://github.com/user-attachments/assets/99907b13-37f6-4a72-ac1a-4f4706d7a12f" alt="Telegram" /></a>
-</div>
+<a href="https://www.instagram.com/mmdrezaw2789">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) </a>  <a href="https://t.me/ichigo_kurosaki">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) </a>
