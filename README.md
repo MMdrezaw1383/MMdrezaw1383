@@ -45,6 +45,8 @@
 
 <div align="right">
 <h2>تماس با من 📞</h2>
-<a href="https://instagram.com/mmdrezaw2789"><img width="50px" height="50px" align="left" src="https://github.com/user-attachments/assets/b8ae8f30-f940-4833-89c4-d704f31f8fff" alt="Instagram" /></a>
+
+<a href="https://t.me/ichigo_kurosaki">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) </a>
+
 <a href="https://t.me/ichigo_kurosaki"><img width="50px" height="50px"  align="left" src="https://github.com/user-attachments/assets/99907b13-37f6-4a72-ac1a-4f4706d7a12f" alt="Telegram" /></a>
 </div>
