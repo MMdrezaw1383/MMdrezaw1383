@@ -4,7 +4,7 @@
 
 <h2 align="center">سلام 🖐 من محمدرضا هستم</h2>
 <p align="center">
-  برنامه نویس بک اند 🖥 دانشجوی رشته مهندسی کامپیوتر دانشگاه آمل 👨‍💻 و عاشق دنیای صفر و یک ✌️
+  برنامه نویس بک اند 🖥 دانشجوی رشته مهندسی کامپیوتر دانشگاه آمل 👨‍💻✌️
 </p>
 <div align="center">
 <h2 align"right">ابزار هایی که استفاده می‌کنم</h2>
@@ -37,7 +37,7 @@
 <h3 align="left">🖥 Django| متوسط</h3> <img width="250px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
 <br />
 <div align="right">
-<h2>تماس با من 📞</h2>
+<h2>ارتباط با من 📞</h2>
 
 <a href="https://www.instagram.com/mmdrezaw2789">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) </a>  <a href="https://t.me/ichigo_kurosaki">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) </a>  <a href="mmdrezaw2789@gmail.com">![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 ) </a>
